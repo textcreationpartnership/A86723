@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Humble adoration to our Blessed Lord Iesus in the Holie Sacrament of his precious body.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86723</idno><idno type="EEBO-CITATION">45578149</idno>
+  <idno type="VID">172108</idno>
+  <idno type="EEBO-PROQUEST">2240885831</idno>
+  
+            <idno type="STC">Wing H3392B_VARIANT</idno>
+            <idno type="STC">ESTC R178284</idno>
+            <idno type="OCLC">45578149</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:4b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Humble adoration to our Blessed Lord Iesus in the Holie Sacrament of his precious body.</title>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1664?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Approbations" dated: 28. Aprilis 1664.</note>
+                  <note>Wing (2nd ed.) H3392B has title: An humble adoration of our Blessed Lord Jesus.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>With: The most devovt prayers of S. Brigitte : touching the most holy passion of Ovr Saviovr Iesvs Christ. / Composed by the aforesayd saint, by instinct of the Holy Ghost. [Douai] : Printed at Dovvay by Balthazar Bellere, 1663.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Passion --  Meditations.</term>
+               <term type="corporate_name">Catholic Church --  Prayer-books and devotions --  English.</term>
+               <term type="topical_term">Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:172108:1"/>
+            <pb n="1" facs="tcp:172108:1"/>
+            <head>An humble Adoration to our Blessed Lord Iesus in the Holie Sacrament of his precious Body.</head>
+            <p>
+               <seg rend="decorInit">O</seg> My most glorious Lord God and Sauiour <hi>Christ Iesus,</hi> true God, and true Man; most Holy, worthy, pure and <hi>precious Sacrifice</hi> of the most high God; liuing bread, and source of Eternall life; with all my hart,
+<pb n="2" facs="tcp:172108:2"/>Soule, forces and affections, I humbly worship, and adore thy <hi>Souraigne Majesty,</hi> in this diuine <hi>Sacrament,</hi> with a most earnest desire and intention, to repaire, if I could possible, all the Irreverences, Prophanations, dishonours, and impietyes, that haue beene com<g ref="char:EOLhyphen"/>mitted against <hi>Thee,</hi> in this dreadfull <hi>Mystery,</hi> most humbly prostrating my selfe before thy <hi>Sacred Majesty,</hi> heere present, to adore thee, in supply, for all those that neuer haue; nor paraduenture euer shall be so happy, as to honour, worship and adore <hi>Thee;</hi> such as are all Heritikes, Atheists, Blasphemers, Magitiās, Iewes, Turkes, Idolaters, and all Infidels, wishing with all my hart that I alone could as much honour, prayse, glorify, and adore
+<pb n="3" facs="tcp:172108:2"/>
+               <hi>Thee,</hi> as they altogether would haue done, if they had known and faithfully serued thee for all Eter<g ref="char:EOLhyphen"/>nity; and furthermore, from the bottome of my <hi>Heart,</hi> and with the most feruent affections of my <hi>Soule,</hi> I desire to render thy <hi>Divine Majesty</hi> as many adorations, prayses, and benedictions, as all the Diuells, and Damned Soules, will vtter blasphemyes for euer against <hi>Thee;</hi> and to Sanctify this adoration, and make it more pleasing to thy <hi>Sacred Majesty;</hi> I humbly vnite it to all those adorations, feruent affections, and prayses of the <hi>Triumphant, and Militant Church,</hi> and all that the glorious <hi>Virgin Mother,</hi> and all thy Holy <hi>Angels</hi> and <hi>Saints</hi> haue done, doe, and ever shall render vnto <hi>Thee,</hi> our most gracious, glorious,
+<pb n="4" facs="tcp:172108:3"/>deare, sweet, and Souraigne Lord, Eternally. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>A deuout Salutation to our Blessed Sa<g ref="char:EOLhyphen"/>uiour in the Holy Sa<g ref="char:EOLhyphen"/>crament.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Ll hayle most sweet <hi>Lord Iesus Christ,</hi> eternall Word and vvisdome of the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> Sonne of the <hi>Blessed Virgin,</hi> Lambe of <hi>God,</hi> Sauiour of the World; Sacred Host; the Word
+<pb n="5" facs="tcp:172108:3"/>made flesh; fountaine of Pitty.</p>
+            <p>All hayle most sweet <hi>Lord Iesus Christ;</hi> prayse of Angells; glory of Saints; Vision of peace, Entire Dei<g ref="char:EOLhyphen"/>ty, true Man, Flower and Fruite of the <hi>Blessed Virgin Mother.</hi>
+            </p>
+            <p>All hayle most sweet <hi>Lord Iesus Christ;</hi> Splendor of thy Father, Prince of Peace, Gate of heauen, liuing bread, Child of the Virgin, Vessel of the Deity.</p>
+            <p>All hayle most sweet <hi>Lord Iesus Christ;</hi> light of heauen; Price of the World; our true Ioy, Bread of Angells, Iubily of hearts, King and Spouse of Virginity.</p>
+            <p>All hayle most sweet <hi>Lord Iesus Christ,</hi> sweet Way, Supreame Ve<g ref="char:EOLhyphen"/>rity, our Eternall reward, true Charity. Fountaine of Loue, peace, Sweetnes and life Euerlasting.</p>
+            <pb n="6" facs="tcp:172108:4"/>
+            <p>All hayle most holy, most sweet, most sacred, and most precious body of <hi>Christ Iesus:</hi> which layd vpon the Aultar of the Crosse for the Worlds Saluation, I beleiue with my hart, and confesse with my mouth, to be a true host, a holy, pure, and Immaculate Host and most pleasing to God; the bread of Eternall life; and Chalice of perpetuall Saluation, I adore thee in Spirit and truth <hi>O pious Iesu, O sweet Iesu;</hi> ô good and gracious <hi>Lord Iesus,</hi> be mercifull to mee I beseech <hi>Thee;</hi> and graciously grant, O my God, that as I see <hi>Thee</hi> heere in the forme of bread; so I may happily see <hi>Thee</hi> in Majesty and glory securely, and Ioyfully, for Euer and Euer. <hi>Amen.</hi>
+            </p>
+            <pb n="7" facs="tcp:172108:4"/>
+            <figure>
+               <figDesc>woodcut</figDesc>
+            </figure>
+            <div type="section">
+               <head>Praysed be the Most Holie SACRAMENT.</head>
+               <p>With as manie praises, as there be starres in Heauen; sparks in the fire; drops of water in the sea; moths of dust vpon the Earth; Flowers in the spring; graines of
+<pb n="8" facs="tcp:172108:5"/>corne in Sommer; leaues, in Automne; flocks of snow, or haile in winter; of corporall creatures, in the whole world.</p>
+               <p>For, thou art worthie of it: <hi>O Lord, of the whole vniuers.</hi> 2. Mach. 24.</p>
+               <p>Who being wrapped vp, vnder the species of Bread, and wine, <hi>Art truly, a God hidden,</hi> Isa. 45.</p>
+            </div>
+            <div type="section">
+               <head>Praised be the Most Holie SACRAMENT.</head>
+               <p>With as many praises, as, by anie externall worke can be giuen, or pronounced by the mouth, and, as ëuer could, or heerafter can be conceaued, by the hearts of all humane creatures, that euer were, or shal be.</p>
+               <pb n="9" facs="tcp:172108:5"/>
+               <p>For, thou art worthie of it: <hi>O Lord, our Father.</hi> Isa. 63.</p>
+               <p>Who dost feede, and nourish vs daily, with thy precious Bodie; and thy precious Blould, which is, as it were, of a Lamb, without spott. 1. Pet. 1.</p>
+            </div>
+            <div type="section">
+               <head>Praised be the Most Holie SACRAMENT.</head>
+               <p>With as manie praises, as all the Angels, yea the most Blessed Trinitie it self, can produce, by its Omnipotencie; wish, by its wisdome; wish, by its Goodnes; in euerie; at all times; euerie way; and for all Eternitie; and longer.</p>
+               <p>For, thou art worthie of it: <hi>O Lord,
+<pb n="10" facs="tcp:172108:6"/>my God.</hi> Isa. 25.</p>
+               <p>Who dost giue me, not only thy Humanitie, but thy Diuinitie also.</p>
+               <p>
+                  <hi>My Lord, and my God.</hi> 10.20.</p>
+               <p>
+                  <hi>The Lamb, which was killed is worthie, to take power, and Diuinitie and wisdome, and fortitude, and honour, and glorie, and benediction.</hi> Apoc. 5.</p>
+               <p>
+                  <hi>NOTE,</hi> That this Praise of the most Holie Sacrament, is fitting at all times; but especially before, and after Communion; and whilst Masse is saying.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:172108:6"/>
+            <head>PLENARIE INDULGENCES</head>
+            <head type="sub">Granted to all persons, by Pope Paul the V. at the instance of the Ca<g ref="char:EOLhyphen"/>tholick King Philip III. <hi>20.</hi> Dec. <hi>1614.</hi>
+            </head>
+            <p>PLenarie Indulgence, for all those, who shall, in some appa<g ref="char:EOLhyphen"/>rent place of their houses, haue these words: <hi>Praised be the most Holie Sacrament.</hi>
+            </p>
+            <p>Item, Plenarie Indulgence, as often as one shall reade the said words; And, to him
+<pb n="12" facs="tcp:172108:7"/>or her, that cannot reade, and shall, in steed thereof, doe reuerence, to the Picture, or Paper, wherein these words are written, or printed.</p>
+            <p>Item, Plenarie Indulgence to those, who shall weare a Picture, or Medall, about them, wherein the said words shall be written, printed, or stampt.</p>
+            <p>Item, Plenarie Indulgence, as often as anie, after Confession, and Communion, shall say: <hi>Praised be the most Holie Sacrament.</hi> And, for the 5. first times, may deliuer 5. soules out of Purgatorie.</p>
+            <p>Item, Plenarie Indulgence, to euerie Christian soule, who, at the hower of death, hauing the Figure of the B. Sacrament▪ in their hands, shall say with deuotion: <hi>Praised be the most Holie Sacrament;</hi> or, saying
+<pb n="13" facs="tcp:172108:7"/>them with the heart, if they be not able to pronounce them with the mouth.</p>
+            <p>
+               <hi>All this is according to the Copie approued, and printed more at large, in the yeares</hi> 1634. <hi>and</hi> 1635. <hi>by the widdow of Henrie Hastens, at Louaine. The Copies printed at Lyons say, that these Indulgences are confirmed by Pope Vrban the VIII. in the yeare</hi> 1624.</p>
+            <p>Hanc <hi>Laudem</hi> cum iunctis Indul<g ref="char:EOLhyphen"/>gentiis admodum laudo, &amp; censeo dignissimam praelo. 3. Iulij 1635.</p>
+            <p>
+               <hi>Arnoldus à Mech. Archid. Burg. L.C.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="14" facs="tcp:172108:8"/>
+            <head>
+               <hi>A PRAYER TO</hi> the Sacred Wounds of our Blessed Sauiour.</head>
+            <p>ETernall honour, glory, prayse, and thansgiuing, be to thee ô most sweet Lord IESUS Christ, for the Sacred vvound of thy right hand; by vvhich most precious wound I beseech the to forgiue mee all the Sinnes that euer I haue commited against thee by my fiue Senses; and all that euer I haue offended thee by thought, vvord, or
+<pb n="15" facs="tcp:172108:8"/>vvorke, in neglect of thy seruice; or vnlawfull delectation; sleeping▪ or waking; willingly or ignorantly; and by thy V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerable Passion gra<g ref="char:EOLhyphen"/>ciously grant thaA<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may vvorthylie call to minde thy dolourous and Sacred vvounds; and by mortifica<g ref="char:EOLhyphen"/>tion of my body shew my selfe gratfull to theem. <hi>Amen.</hi>
+            </p>
+            <div n="2" type="prayer">
+               <head>The second Prayer.</head>
+               <p>ETernall honour, glory, prayse, and thansgiuing be to thee ô most sweet Lord IESUS Christ, for the Sacred vvound of thy left hand; by vvhich most precious Wound I beseech thee to haue mercy vpon mee; and to change in mee what<g ref="char:EOLhyphen"/>soeuer is displeasing to thy divine Maiesty; and guie mee Victory ouer
+<pb n="16" facs="tcp:172108:9"/>my most vvicked Enimyes, that by thy power I may be able to ouercome them; and by thy most bitter death and Passion deliuer mee from all dangers and miseryes, both of this present life, and the future; and make mee vvorthy of thy grace in thy heauenly Kingdome. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="3" type="prayer">
+               <head>The third Prayer.</head>
+               <p>ETernall honour, glory, prayse, and thansgiuing bee to thee ô most sweet Lord IESUS Christ, for the Sacred wound of thy right Foote; by which precious Wound, grant that I may doe vvorthy pennance for my Sinnes; and by thy pious and dolourous death, giue mee grace, day and night, con<g ref="char:EOLhyphen"/>tinually to doe thy vvill; and mer<g ref="char:EOLhyphen"/>cifully
+<pb n="17" facs="tcp:172108:9"/>vouchsafe to preserue and draw mee, thy poore vnworthy Ser<g ref="char:EOLhyphen"/>uant, out of all dangers of my Soule and Body; and at the hower of my death be pleased to receiue my Soule into the handes of thy mercy; and admit it into thy Eternall glo<g ref="char:EOLhyphen"/>ry. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="4" type="prayer">
+               <head>The fourth Prayer.</head>
+               <p>ETernall honour, glory, prayse, and thansgiuing be to thee ô sweetest Lord IESUS; for the Sacred Wound of thy left foote; by which precious woūd I beseech thee, ô most mercifull Lord, to forgiue mee all the offēces that euer I haue cōmit<g ref="char:EOLunhyphen"/>ted against thee; and graunt mee a plenary pardon and remission of all my Sinnes; that thou soucouring
+<pb n="18" facs="tcp:172108:10"/>mee I may escape the Iudgment of revenge; and I beseech thee ô most mercifull Lord IESUS, by thy most holy death, that before the day of my departure out of this World, I may obtaine the grace worthylie to receiue the Diuine Sacrament of thy most precious Body; and with true Contrition, and Confession of all my Sinnes; perfect pennance for them; with purity of minde and body; and the Sacrament of holy Vnction, to attaine to Eternall Saluation. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="5" type="prayer">
+               <head>The fifth Prayer.</head>
+               <p>ETernall honour, glory, prayse, and thansgiuing be to thee ô most beautifull Lord IESUS, for the holy wound of thy Sacred Side; by
+<pb n="19" facs="tcp:172108:10"/>which most precious Wound, and thy superaboundant mercy which thou hast shewed vs in the opening of thy sacred Side, I beseech thee ô most sweet Lord IESUS, that as by Baptisme thou hast clensed mee from originall Sinne; so by thy most precious blood, which is offred vp in Sacrifice for all the World; thou wilt be pleased to de<g ref="char:EOLhyphen"/>liuer mee from all Euills, past, pre<g ref="char:EOLhyphen"/>sent and to come; and by thy most doulourous death graciously giue mee a right faith; firme hope; and perfect charity; that I may loue thee with my whole hart, with my whole Soule; and with all my forces and affections; confirme mee ô dearest Lord in all good workes, and giue mee a constant perseverance in thy holy service, to the end that I may
+<pb n="20" facs="tcp:172108:11"/>perfectly please thee; both in this present life; and Eternally. <hi>Amen.</hi>
+               </p>
+               <p>Wound ô most sweet Lord IESUS my hart with thy Sacred Wounds; and inebriate it with thy precious blood, that whersoeuer I turne my selfe, I may alwayes see thee cruci<g ref="char:EOLhyphen"/>fyed aboue mee; and whatsoeuer I behold may seeme to mee red with thy sacred blood; that so wholly tending towards thee; I may be able to behold nothing besides thee; who liuest and raignest world without End. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="21" facs="tcp:172108:11"/>
+            <head>
+               <hi>PRAYERS TO BEE</hi> sayd in the Agony of death, or at any other time, to obtaine mercy at that hower.</head>
+            <p>
+               <hi>Kyrie eleison. Christe eleison. Kyrie eleison. Domine miserere nostri. Pater noster. Ave Maria.</hi>
+            </p>
+            <p>O Saviour of the world Saue vs, who by thy Crosse &amp; by thy blood hast redeemed vs, help vs wee beseech thee our God.</p>
+            <div n="1" type="prayer">
+               <pb n="22" facs="tcp:172108:12"/>
+               <head>The first Prayer.</head>
+               <p>O Most sweet Lord IESUS Christ by thy agony &amp; most holy prayer which thou mad'st for vs in the mount Olivet, when thy sweat became like drops of blood run<g ref="char:EOLhyphen"/>ing downe vpon the earth: I beseech thee to offer to God the Father Almighty the multitude of thy bloody sweet, which thou most co<g ref="char:EOLhyphen"/>piously powredst out for the hor<g ref="char:EOLhyphen"/>rour of death, against the multi<g ref="char:EOLhyphen"/>tude of my Sinnes; &amp; deliuer mee in the hour of my death from all paynes and anguishes, which I feare I haue deserued, for my offences; who vvith the Fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her &amp; holy Ghost liuest and reignest world without end. <hi>Amen.</hi>
+               </p>
+               <pb n="23" facs="tcp:172108:12"/>
+               <p>
+                  <hi>Kyrie eleison. Christe eleison. Kyrie eleison. Domine miserere nostri. Pater noster. Ave Maria.</hi>
+               </p>
+               <p>Sanctifie vs ô Lord with the signe of the holy Crosse, that it may bee to vs a defence against the cruell darts of our enemyes. Defēd vs, ô Lord, by thy holy signe, &amp; by the price of thy most pretious blood, wherewith thou hast redee<g ref="char:EOLhyphen"/>med vs.</p>
+            </div>
+            <div n="2" type="prayer">
+               <head>The second Prayer.</head>
+               <p>O Most sweet Lord IESUS Christ who vouchsafedst to dye for vs vpon the Crosse: I beseech thee to offer to God the Father Allmighty all the bitternesse of all thy suffrings which thou sustainedst for vs Sinners on the Crosse, when
+<pb n="24" facs="tcp:172108:13"/>thy most holy soul went out of thy most precious body, for my infirme soule: &amp; deliver mee on the day of my death from all the paynes &amp; suffrings which by my Sinnes I feare I haue deserved, who livest &amp; reignest world without end. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Kyrie eleison. Christe eleison. Kyrie eleison. Domine miserere nostri. Pater noster. Ave Maria.</hi>
+               </p>
+               <p>Protect, &amp; save, blesse, &amp; san<g ref="char:EOLhyphen"/>ctifie ô Lord all thy people, &amp; turne away from mee thy servant by the signe of the holy Crosse, the diseases of my minde &amp; body, that against this signe no danger may bee feared.</p>
+            </div>
+            <div n="3" type="prayer">
+               <pb n="25" facs="tcp:172108:13"/>
+               <head>The third Prayer.</head>
+               <p>O Most sweet Lord IESUS Christ, who hast sayd by the mouth of thy Prophet: in perpetuall cha<g ref="char:EOLhyphen"/>ritie have I loved thee, therefore have I drawn thee vnto mee, taking pitty on thee: I beseech thee by that charitie of thine which drew thee from heaven to earth to the enduring of all thy suffrings, that thou wilt vouchsafe to offer &amp; re<g ref="char:EOLhyphen"/>present all thy paynes, &amp; dolours to God the Father Allmightie, against all the paynes, &amp; suffrings which by my sinnes I feare I haue deserved: save my soule in the hour of its departure: open to it the gate of life: &amp; let mee reioyce with the Saints in glory: who livest &amp; reignest with God the Fa<g ref="char:EOLhyphen"/>ther
+<pb n="26" facs="tcp:172108:14"/>in vnitie of the Holy Ghost, one God for ever &amp; ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="another" type="prayer">
+               <head>An other Prayer.</head>
+               <p>O Most sweet Lord IESUS Christ, who hast redeemed vs with thy pretious blood, write in my soule with that thy pretious blood, all thy Wounds: and let mee learne to read in them thy do<g ref="char:EOLhyphen"/>lours &amp; love; thy dolours against all the dolours, anguishes &amp; paynes, which for my sinnes, I feare I have deserved: thy love, that I may live to thee with an inviolable love, to the end I may not bee se<g ref="char:EOLhyphen"/>perated from thee, &amp; all thy Saints &amp; elect for ever: Make mee, most sweet Lord partaker of thy most holy Incarnation, Passion,
+<pb n="27" facs="tcp:172108:14"/>Resurrection, &amp; Ascension: make mee partaker of all the blessings, graces, merits &amp; ioyes of all thy elect, who have pleased th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e from the beginning of the world, &amp; grant that with all these I may reioyce in thy sight for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="approbations">
+               <pb n="28" facs="tcp:172108:15"/>
+               <head>Approbations.</head>
+               <q>
+                  <floatingText xml:lang="lat">
+                     <body>
+                        <div type="approbation">
+                           <p>PReces has attentè perlegi, <gap reason="illegible" resp="#murp" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> quibus nihil fidei vel bonis mo<g ref="char:EOLunhyphen"/>ribus contrarium reperi, adeoque liberè imprimi poslunt.</p>
+                           <closer>
+                              <dateline>
+                                 <date>Actum Duaci 28. Aprilis 1664.</date>
+                              </dateline>
+                              <signed>GEORGIVS LEYBVRNVS S. Theol. Doctor, &amp; Collegij Anglo-Dua<g ref="char:EOLhyphen"/>ceni Praeses.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="lat">
+                     <body>
+                        <div type="approbation">
+                           <p>EGo quoque easdem preces, in Fide Eximij Domini GEORGII LEYBURNI, approbo, &amp; imprimi permi<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>to. Actum Duaci 28. Aprilis 1664.</p>
+                           <closer>
+                              <signed>M. GERTMAN S. Theol. Doctor &amp; Librorum Censor.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb facs="tcp:172108:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
